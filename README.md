@@ -1,3 +1,3 @@
 # Amazon-Clone 
 <br>
-# This is my Amazon Clone Repository.
+# This is my first Amazon Clone Repository.
